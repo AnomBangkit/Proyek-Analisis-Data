@@ -1,4 +1,5 @@
-# Proyek-Analisis-Data Bike Sharing System
+Proyek Analisis Data 
+# Bike Sharing System
 ## How to setup environment
 ```
 # using conda
