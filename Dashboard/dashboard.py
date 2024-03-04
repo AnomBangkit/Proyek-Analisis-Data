@@ -6,7 +6,7 @@ import plotly.express as px
 sns.set(style="dark")
 
 #load dataset
-df = pd.read_csv(https://raw.githubusercontent.com/AnomBangkit/Proyek-Analisis-Data/main/Dashboard/Cleaned_hour_dataset.csv)
+df = pd.read_csv("https://raw.githubusercontent.com/AnomBangkit/Proyek-Analisis-Data/main/Dashboard/Cleaned_hour_dataset.csv")
 df["dteday"] = pd.to_datetime(df["dteday"])
 st.set_page_config(page_title="Bike Sharing System EDA",
                    page_icon=":bike:",
