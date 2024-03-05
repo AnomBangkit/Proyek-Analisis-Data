@@ -24,11 +24,11 @@ Pada Dashboard menunjukkan Perhitungan Users, Distribusi Data Total Users dan Te
 ### Streamlit Local
 #### Menginstal library yang dibutuhkan
 Untuk menginstal semua library, buka terminal/command prompt/conda prompt, navigasi pada path project folder, dan jalankan dengan kode berikut :
-```
+```bash
 pip install -r requirements.txt
 ```
 #### Run Streamlit
-```python
+```bash
 cd Dashboard
 python -m streamlit run dashboard.py
 # or
