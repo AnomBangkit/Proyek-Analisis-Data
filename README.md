@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit babel
 ```
 ## Streamlit Dashboard
 ### Streamlit Cloud
-🔗Dashboard dapat dilihat dalam tautan berikut ini [Streamlit Dashboard](https://nemxjzy8iqwmeteoqbr42a.streamlit.app/)
+🔗Dashboard dapat dilihat dalam tautan berikut ini [Streamlit Dashboard](https://nemxjzy8iqwmeteoqbr42a.streamlit.app/)  
 Pada Dashboard menunjukkan Perhitungan Users, Distribusi Data Total Users dan Temperatur serta Plot Regresi Temperatur
 ![image](https://github.com/AnomBangkit/Proyek-Analisis-Data/assets/160373142/d48f9e6a-3070-453c-8e96-8af035cd042e)
 ### Streamlit Local
