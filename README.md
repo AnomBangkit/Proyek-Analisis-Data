@@ -17,7 +17,9 @@ conda activate main-ds
 pip install numpy pandas matplotlib seaborn jupyter streamlit babel
 ```
 ## Streamlit Dashboard
-🔗Dashboard dapat dilihat dalam tautan berikut ini [Streamlit Dashboard](
+🔗Dashboard dapat dilihat dalam tautan berikut ini [Streamlit Dashboard](https://nemxjzy8iqwmeteoqbr42a.streamlit.app/)
+Pada Dashboard menunjukkan Perhitungan Users, Distribusi Data Total Users dan Temperatur serta Plot Regresi Temperature
+
 ```
 python -m streamlit run proyek_bikeSharing.py
 # or
