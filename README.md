@@ -28,7 +28,7 @@ Untuk menginstal semua library, buka terminal/command prompt/conda prompt, navig
 pip install -r requirements.txt
 ```
 #### Run Streamlit
-```
+```python
 cd Dashboard
 python -m streamlit run dashboard.py
 # or
